@@ -1,5 +1,0 @@
-//pairs/request.php?&description=(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1

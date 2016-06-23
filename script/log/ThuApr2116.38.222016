@@ -1,285 +1,0 @@
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab%C3%A0&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=aba&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=aba&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(c&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+va&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+va&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+va&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+va&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+va&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+v&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+baa&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+baa&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+baa&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+baa&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+baa&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba-&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		25% ... 		50% ... 		75% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+ba(ac)&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)*&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
-//pairs/request.php?&description=ab(cd)*+ba(ac)*&&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
-Done
-Done
-Done
-Done
-start computing pairs ...
-Done
-Pairs:
-	test level 1
-		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:0
-	test level 2
-		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:0
-	test level 3
-		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:0
-//pairs/request.php?&description=ab(cd)*+ba(ac)*&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
-//pairs/request.php?&description=(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^10&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^3&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^9&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^10&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^0&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a)^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a$&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a$%20&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a$&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^3&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^0&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^12&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^123&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^12&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^1&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^23&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^2321&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^23&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^232&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^2&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^3&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^0&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a^&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
-//pairs/request.php?&description=1.a-%3E2;3.b-%3E1;3.a-%3E0;1.b-%3E2;0.b-%3E4;4.b-%3E0;2.a-%3E3;2.b-%3E0;4.a-%3E4;0.a-%3E2;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
-//pairs/request.php?&description=1.a-%3E2;3.b-%3E1;3.a-%3E0;1.b-%3E2;0.b-%3E4;4.b-%3E0;2.a-%3E3;2.b-%3E0;4.a-%3E4;0.a-%3E2;&initial_states=&final_states=&&inputtype=Automata&Request=TransitionMonoid&ip=127.0.0.1
-//pairs/request.php?&description=1.a-%3E3;3.b-%3E4;3.a-%3E4;1.b-%3E3;0.b-%3E4;4.b-%3E1;2.a-%3E0;2.b-%3E2;4.a-%3E4;0.a-%3E2;&initial_states=&final_states=&&inputtype=Automata&Request=TransitionMonoid&ip=127.0.0.1
-//pairs/request.php?&description=1.a-%3E2;3.b-%3E1;3.a-%3E0;1.b-%3E2;0.b-%3E4;4.b-%3E0;2.a-%3E3;2.b-%3E0;4.a-%3E4;0.a-%3E2;&initial_states=&final_states=&&inputtype=Automata&Request=TransitionMonoid&ip=127.0.0.1
