@@ -1,4 +1,4 @@
-# [Semigroup online](www.paperman.cadilhac.name/pairs)           
+# [Semigroup online](http://www.paperman.cadilhac.name/pairs)           
           
  This is a sage based online tool to compute algebraic properties of automata. 
 
