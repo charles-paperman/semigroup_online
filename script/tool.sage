@@ -7,8 +7,6 @@ load('automata_utils.sage')
 local = os.getcwd()
 sage_obj_url = local+"/../data/sage_obj/"
 imgurl = local+"/../data/img/"
-#sage_obj_url = "/home/charles/www/sage_obj/"
-#imgurl = "/home/charles/www/img/"
      
      
 def draw_box_JSON(box):

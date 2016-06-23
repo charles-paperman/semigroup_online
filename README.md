@@ -1,7 +1,13 @@
 # semigroup_online          
           
-Sage based online tool to compute algebraic properties of automata.          
-          
+## This is a sage based online tool to compute algebraic properties of automata. 
+
+For a local installation it is required to have Sage, Apache, PhP and Graphviz installed.
+You just need to copy the directory into the "www" folder.  
+
+For an online installation PHP files and server.py should be change to the actual URL of your server.
+
+It is also possible to perform all computations directly in Sage by loading sage files with the "%attach" command. Remark that some of the computation are not yet integrated with in the adequate class.          
           
           
 - README.md           
