@@ -1,0 +1,8 @@
+Done
+start computing pairs ...
+Done
+Pairs:
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
+//pairs/request.php?&description=&&id=wd7owY&selectedElements=&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1

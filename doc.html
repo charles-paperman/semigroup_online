@@ -1,0 +1,143 @@
+<style>
+  .fake-text-box {
+  padding: 10px;
+  margin:10px;
+  background-color: rgb(204, 255, 204);
+  border:grey solid 1pt;
+  width:520px;
+  font-family: "Courier New", Courier, monospace;
+  }
+  .serif { font-family: serif }
+</style>
+
+<div  id="doc", style="width:1200px; margin:10px;padding:10px">
+<div>
+<div  style = "white-space: normal">
+<br>
+<h3>"Regular expression" window</h3>
+<ul>
+    <li style="margin:20px"> Regular expressions are specified using the following syntax:<br>
+         <div class="fake-text-box">
+            L :==   σ <span class="serif">for</span> σ ∈ {a-z,B-Z} <br>
+                  | A <span class="serif">meaning the alphabet</span><br>
+                  | L<sub>1</sub>L<sub>2</sub> <span class="serif">(concatenation)</span><br>
+                  | L<sub>1</sub>-L<sub>2</sub> <span class="serif">(difference)</span><br>
+                  | L<sub>1</sub>+L<sub>2</sub> <span class="serif">(union)</span><br>
+                  | (L)^<span class="serif">n for n in</span> {1, ..., 9} <span class="serif">(n-fold concatenation)</span><br>
+                  | (L)*  <span class="serif">(Kleene Star)</span>
+         </div>
+         The input expression is syntax-checked on each change (green: correct, red: error).<br/><br/>
+         Examples: <span class="fake-text-box">(ab+cd)*aA*</span>
+    <br>
+    </li>
+    <li style="margin:20px"> By default, the alphabet is detected automatically, taking every letter appearing in the regular expression.  This can be tweaked using the following box:<br>
+    <div style="margin: 10px;"><div style="display: inline-block; margin-top: 20px;">Alphabet:</div><div style="color: red; margin: 10px; padding: 10px; border: 1px solid black; display: inline-block; background-color: white;">autodetect</div></div>
+    When a word is specified therein, the alphabet becomes the set of letters
+    of the word (thus "aab" and "ab" result in the same alphabet).  The
+    special word "autodetect" restores the default behavior.
+    <br>
+    </li>
+    <li style="margin:20px"> Computations are done "on the fly," meaning that
+    all computations will be updated every time a new valid regular
+    expression is entered.  This can be deactivated with the following
+    checkbox:
+    <br>
+    <div style="margin: 10px;"><div style="display: inline-block; margin-top: -1px;">Compute on the fly:</div><input type="checkbox"></div>    
+
+    Click on  <img src="image/refresh.png" width="15" style="cursor: pointer; display: inline-block; margin-right: 10px; margin-top: 2px;"> to force an update.
+    </li>
+    <li style="margin:20px"> The "Computations" menu offers the following options:
+    <ul>
+    <li style="margin:20px"> Minimal automaton: compute and display the minimal automaton</li>
+    <li style="margin:20px"> Syntactic monoid: show the Egg Box diagram of
+    the syntactic monoid of the language (see
+    Pin's <a href="https://www.irif.univ-paris-diderot.fr/~jep//PDF/MPRI/MPRI.pdf">
+    book</a>, Chapter V). </li>
+    <li style="margin:20px"> Syntactic order: display the syntactic order of
+    the language (see
+    Pin's <a href="https://www.irif.univ-paris-diderot.fr/~jep//PDF/MPRI/MPRI.pdf">
+    book</a>, Section IV.5.3). </li>
+    <li style="margin:20px"> Computation of the Σ<sub>k</sub>-pairs of
+    syntactic monoid: compute <i>some</i> pairs of the monoid, relying on the
+    tightness property.  If the monoid is shown as <b>tight</b>, then the set
+    of pairs is complete. Otherwise, some pairs might be missing.  The pairs
+    that make the tightness property fail at each level are shown in
+    red. (See <a href="">this article</a> for a presentation of
+    tightness)</li>
+<ul>
+<ul>
+</div>
+
+
+<div  style = "white-space: normal">
+<br>
+<h3>"Automaton" window</h3>
+<ul>
+    <li style="margin:20px"> Automata are specified using the following
+    syntax:<br>
+    <div style="margin-right: 5px; padding: 5px; margin-left: -1px;"><div>Transitions:</div>
+      <div class="fake-text-box">
+	state.σ -> state_1, state_2, ..., state_n <br/>
+	       <span class="serif">where</span> σ ∈ {a-z,B-Z}<br/>
+	       <span class="serif">and</span> state <span class="serif">is any string.</span><br/>
+	
+	state.A -> state_1,state_2,...,state_n<br/>
+	       <span class="serif">where</span> A <span class="serif">stands for the alphabet</span>
+
+</div><div>Initial states:</div>
+<div class="fake-text-box">
+state_1, ...., state_n
+</div>
+<div>Final states:</div>
+<div class="fake-text-box">
+state_1, ...., state_n
+</div></div>
+    </li>
+    <li style="margin:20px"> By default, the alphabet is detected automatically, taking every letter appearing on a transition.  This can be tweaked using the following box:<br>
+    <div style="margin: 10px;"><div style="display: inline-block; margin-top: 20px;">Alphabet:</div><div style="color: red; margin: 10px; padding: 10px; border: 1px solid black; display: inline-block; background-color: white;">autodetect</div></div>
+    When a word is specified therein, the alphabet becomes the set of letters
+    of the word (thus "aab" and "ab" result in the same alphabet).  The
+    special word "autodetect" restores the default behavior.
+    <br>
+    <br>
+    </li>
+    <li style="margin:20px"> Computations are done "on the fly," meaning that
+    all computations will be updated every time a new valid regular
+    expression is entered.  This can be deactivated with the following
+    checkbox:
+    <br>
+    <div style="margin: 10px;"><div style="display: inline-block; margin-top: -1px;">Compute on the fly:</div><input type="checkbox"></div>    
+
+    Click on  <img src="image/refresh.png" width="15" style="cursor: pointer; display: inline-block; margin-right: 10px; margin-top: 2px;"> to force an update.
+    </li>
+    <li style="margin:20px"> The "Computations" menu offers the following options:
+      <ul>
+<li style="margin:20px"> Draw automaton: draw the input automaton (green state: initial, double state: final).  To download the picture in SVG, right click and "Save As."
+<li style="margin:20px"> Minimal automaton: compute and display the minimal automaton</li>
+    <li style="margin:20px"> Transition monoid: show the Egg Box diagram of
+    the monoid generated by the transitions (see
+    Pin's <a href="https://www.irif.univ-paris-diderot.fr/~jep//PDF/MPRI/MPRI.pdf">
+    book</a>, Section IV.3).  Does not require initial/final states to be
+    specified.
+    <li style="margin:20px"> Syntactic monoid: show the Egg Box diagram of
+    the syntactic monoid of the language (see
+    Pin's <a href="https://www.irif.univ-paris-diderot.fr/~jep//PDF/MPRI/MPRI.pdf">
+    book</a>, Chapter V). </li>
+    <li style="margin:20px"> Syntactic order: display the syntactic order of
+    the language (see
+    Pin's <a href="https://www.irif.univ-paris-diderot.fr/~jep//PDF/MPRI/MPRI.pdf">
+    book</a>, Section IV.5.3). </li>
+    <li style="margin:20px"> Computation of the Σ<sub>k</sub>-pairs of
+      transition monoid: compute <i>some</i> pairs of the monoid, relying on the
+    tightness property.  If the monoid is shown as <b>tight</b>, then the set
+    of pairs is complete. Otherwise, some pairs might be missing.  The pairs
+    that make the tightness property fail at each level are shown in
+    red. (See <a href="">this article</a> for a presentation of
+    tightness)</li>
+<ul>
+<ul>
+</div>
+</div>
+
+</div>
+

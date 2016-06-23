@@ -1,0 +1,64 @@
+div.canvas {
+     display: inline-block;
+     vertical-align: top;
+     background-color: GhostWhite;
+     border:solid 1px; 
+     margin:20px;
+     min-height: 100px;
+     min-width: 100px;
+     
+     }
+div.description{
+     background-color: GhostWhite;
+     border:solid 1px; 
+     width: 600px;    
+     margin:10px;
+     padding:10px;
+}     
+div.description{
+     margin:10px;
+     padding:10px;
+}     
+
+div.wait {
+     margin:17px;     
+     }
+
+svg {
+     display: block;
+     
+     }
+.node {
+  stroke-width: 1.5px;
+  fill: lightgrey;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+.dclass {
+    display:inline; 
+    margin:10px; 
+    border-collapse:collapse;
+}
+.hclass {
+    border:1px solid black;
+}
+div.transition{
+     margin:10px;
+}     
+div.automata{
+     margin:10px;
+
+}
+div.menu{ 
+     display: inline-block;
+     vertical-align: top;
+     background-color: GhostWhite;
+     border:solid 1px; 
+     margin:10px;
+     padding:15px; 
+}
+
+

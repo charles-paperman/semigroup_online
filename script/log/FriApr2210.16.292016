@@ -1,0 +1,117 @@
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=&&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=&&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=12&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=12&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=12&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=13&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=13&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1%20&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1%20&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1%203&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1%203&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1%20&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1%20&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1,&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E2,3;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E%272%27,%20%273%27;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E%272%27,%20%273%27;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E%271%27,%20%273%27;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E%271%27,%20%273%27;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=%C3%A9.a-%3E%271%27,%20%273%27;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=%C3%A9.a-%3E%271%27,%20%273%27;&initial_states=1,2&final_states=1,3&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(a&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(ab&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(ab)&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(ab)*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=(ab+cd)*aA*&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=(ab+cd)*aA*&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=(ab+cd)*aA*&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
+//pairs/request.php?&description=1.a%20%3E%202;&initial_states=&final_states=&&inputtype=Automata&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=1.a%20%3E%202;2.a%3E1;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a%20%3E%202;2.a%3E1;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a%20%3E%202;2.a%3E1;&initial_states=&final_states=&&inputtype=Automata&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E0;3.a-%3E1;1.b-%3E4;0.b-%3E1;4.b-%3E2;2.a-%3E2;2.b-%3E4;4.a-%3E4;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+Done
+Done
+Done
+Done
+start computing pairs ...
+Done
+Pairs:
+	test level 1
+		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:4
+	test level 2
+		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:8
+	test level 3
+		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:8
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E0;3.a-%3E1;1.b-%3E4;0.b-%3E1;4.b-%3E2;2.a-%3E2;2.b-%3E4;4.a-%3E4;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=ComputePairs&ip=127.0.0.1
+Done
+Done
+Done
+Done
+start computing pairs ...
+Done
+Pairs:
+	test level 1
+		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:4
+	test level 2
+		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:8
+	test level 3
+		16% ... 		33% ... 		50% ... 		66% ... 		83% ... 		100% ... 	Done nb of conlit:8
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E0;3.a-%3E1;1.b-%3E4;0.b-%3E1;4.b-%3E2;2.a-%3E2;2.b-%3E4;4.a-%3E4;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=ComputePairs&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E0;3.a-%3E1;1.b-%3E4;0.b-%3E1;4.b-%3E2;2.a-%3E2;2.b-%3E4;4.a-%3E4;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=TransitionMonoid&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=TransitionMonoid&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=SyntacticMonoid&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=SyntacticOrder&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E2;3.a-%3E1;1.b-%3E4;0.b-%3E2;4.b-%3E1;2.a-%3E2;2.b-%3E4;4.a-%3E0;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=Automaton&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E2;3.a-%3E1;1.b-%3E4;0.b-%3E2;4.b-%3E1;2.a-%3E2;2.b-%3E4;4.a-%3E0;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=SyntacticMonoid&ip=127.0.0.1
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E2;3.a-%3E1;1.b-%3E4;0.b-%3E2;4.b-%3E1;2.a-%3E2;2.b-%3E4;4.a-%3E0;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=TransitionMonoid&ip=127.0.0.1
+Done
+Done
+Done
+start computing pairs ...
+Done
+Pairs:
+	test level 1
+		10% ... 		20% ... 		30% ... 		40% ... 		50% ... 		60% ... 		70% ... 		80% ... 		90% ... 		100% ... 	Done nb of conlit:16
+	test level 2
+		10% ... 		20% ... 		30% ... 		40% ... 		50% ... 		60% ... 		70% ... 		80% ... 		90% ... 		100% ... 	Done nb of conlit:16
+//pairs/request.php?&description=1.a-%3E3;3.b-%3E2;3.a-%3E1;1.b-%3E4;0.b-%3E2;4.b-%3E1;2.a-%3E2;2.b-%3E4;4.a-%3E0;0.a-%3E4;&initial_states=&final_states=&&inputtype=Automata&Request=ComputePairs&ip=127.0.0.1

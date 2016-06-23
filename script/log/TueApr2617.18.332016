@@ -1,0 +1,18 @@
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1
+//pairs/request.php?&description=&&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
+Done
+start computing pairs ...
+Done
+Pairs:
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=isValid&ip=127.0.0.1
+Done
+start computing pairs ...
+Done
+Pairs:
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=ComputePairs&ip=127.0.0.1
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=SyntacticMonoid&ip=127.0.0.1
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=SyntacticOrder&ip=127.0.0.1
+//pairs/request.php?&description=&&id=RNfFRZ&selectedElements=&inputtype=RegularExpression&Request=MinimalAutomaton&ip=127.0.0.1

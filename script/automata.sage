@@ -1,0 +1,1 @@
+/home/cha/Dropbox/code/sage_charles_curr/automata.sage

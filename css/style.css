@@ -1,0 +1,234 @@
+@keyframes highlight {
+  0% {
+    background: #2E9AFE
+  }
+  100% {
+    background: none;
+  }
+}
+div {
+    white-space: nowrap;
+    vertical-align:top;
+}
+.mainButton{
+    margin : 10px;
+    padding : 20px;
+    border : solid 1px black;
+    display : inline-block;
+    background-color:white;
+   
+}
+.mainButton:hover{
+    background-color:#DCEFF5;
+
+}
+.smallButton{
+    margin : 10px;
+    padding : 10px;
+    border : solid 1px black;
+    background-color: white;
+}
+.smallButton:hover{
+    background-color:#DCEFF5;
+}
+.imageStandard{
+    max-width:100%;
+    max-height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    padding:10px
+}
+.dclass {
+    display:inline-block; 
+    margin:10px; 
+    border-collapse:collapse;
+    background-color:white;
+}
+.hclass {
+    border:1px solid black;
+    margin:450px; 
+}
+
+div.transition{
+    margin-top:2px;
+}     
+div.automata{
+    margin:10px;
+
+}
+div.element{
+    padding:5px;
+    padding-left: 15px;
+    padding-right: 15px;    
+    display: inline-block;
+    cursor: pointer;
+}
+.menu{ 
+    display: inline-block;
+    vertical-align: top;
+    background-color: GhostWhite;
+    border:solid 1px;
+    margin:10px;
+    padding:15px;
+}
+
+.formula{
+    border:solid 1px ;
+    display:inline-block;
+    padding:10px;
+    margin:5px;
+    vertical-align:top;
+    background-color:lightgrey;
+}
+.formulaprefixempty{
+    display:inline-block;
+    padding:10px;
+    margin:5px;
+    vertical-align:top;
+
+}
+.formulaprefix{
+    border-bottom:solid 1px ;
+    border-left:solid 1px ;
+
+    display:inline-block;
+    padding:2.5px;
+    margin:2.5px;
+    vertical-align:top;
+}
+
+
+.variable{
+    display:inline-block;
+    margin-left:5px;
+}
+.labelinfix {
+    margin-bottom: 10px;
+    padding-top: 0px;
+    background-color: white;
+    margin-top: -20px;
+    border: solid 0.5px;
+    text-align:center;
+}
+
+.choiceselect{
+    margin:5px;
+    border:solid 0.5px;
+}
+.prefixhead{
+    border:1px solid;
+    padding:5px;
+    vertical-align:top;
+    display:inline-block;
+    transition:width 0.5s;
+}
+
+.prefixbody{
+    margin-left:20px;
+    border-left:solid 1px;
+    padding:5px;
+
+}
+.prefixformula{
+    display:inline-block;
+    vertical-align:top;
+}
+.infixhead{
+    padding:5px;
+    vertical-align:top;
+    border:1px solid;
+    display:none;
+
+}
+.infixbody{
+    margin-left:20px;
+    margin-right:20px;
+
+    padding:5px;
+}
+.infixformula{
+    display:inline-block;
+    vertical-align:top;
+
+}
+.submenu{
+    display: inline-block;
+    border:1px solid;
+    margin:5px;
+    padding:5px;
+    vertical-align:top;
+    transition:height 0.25s;
+}
+.choicemenu{
+    display:none;
+    text-align:center;
+}
+.choicemenu:hover{
+    background-color:lightgreen;
+}
+
+.slideHolder {
+    display:inline-block;
+}
+.slideChoice{
+    display:none;
+    text-align:center;
+}
+.slideLabel{
+    text-align:center;
+}
+
+.slideChoice:hover{
+    background-color:lightgreen;
+}
+.mainMenuElement{
+    margin : 10px;
+    min-width : 200px;
+    padding : 5px;
+    padding-top :10px;
+    padding-bottom :10px;
+    text-align : center;
+    border : solid 1px;
+    background-color : white;
+    cursor:pointer;
+}
+.computableMenu{
+    border: solid 1px;
+    display:table-cell;
+    min-width:300px;
+}
+.computableMenuBody{
+
+}
+.computableMenuHead{
+    padding: 5px;
+    margin-bottom:10px;
+    background-color:#DCEFF5;
+    border-bottom:solid grey 1px;
+    height:1.2em;
+}
+.computableMenuFoot{
+    border-top: solid 1px;
+    padding: 5px;
+} 
+#footer {
+    border: solid 1px;
+    margin: 5px;
+    padding: 5px;
+    text-align: right;
+    position:absolute;
+}
+.author{    
+    display: block;
+    text-align:right;
+    margin-left: auto;
+    margin-right:auto;
+}
+.author div
+{
+    margin-right:20px;
+    margin-bottom:10px;
+}
+
+}
