@@ -1,6 +1,6 @@
-# semigroup_online          
+# [Semigroup online](www.paperman.cadilhac.name/pairs)           
           
-## This is a sage based online tool to compute algebraic properties of automata. 
+ This is a sage based online tool to compute algebraic properties of automata. 
 
 For a local installation it is required to have Sage, Apache, PhP and Graphviz installed.
 You just need to copy the directory into the "www" folder.  
